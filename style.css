@@ -2,3 +2,23 @@
     color: orange;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+#tit_subt{
+    position: absolute;
+    left: 50px;
+}
+#not1{
+    position: absolute;
+    left: 5px;
+    top: 250px;
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
+#not2{
+    position: absolute;
+    right: 5px;
+    top: 250px;
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}

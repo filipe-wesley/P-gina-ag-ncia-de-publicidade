@@ -5,20 +5,36 @@
 #tit_subt{
     position: absolute;
     left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
 }
 #not1{
     position: absolute;
-    left: 5px;
+    left: 450px;
     top: 250px;
-    background-color: black;
     width: 500px;
     height: 500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.img1{
+    position: absolute;
+    left: 25px;
+    top: 250px;
+}
+.img2{
+    width: 350px;
+    position: absolute;
+    right: 550px;
+    top: 250px;
 }
 #not2{
     position: absolute;
     right: 5px;
     top: 250px;
-    background-color: black;
     width: 500px;
     height: 500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
